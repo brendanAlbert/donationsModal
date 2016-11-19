@@ -1,0 +1,12 @@
+﻿  DonorList.cpp
+  DonorType.cpp
+  Main.cpp
+  MemberType.cpp
+  frmAddDonor.cpp
+  frmDeleteDonor.cpp
+  frmDonations.cpp
+  frmSearchDonor.cpp
+  Generating Code...
+  frmDeleteDonor.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Donations.vcxproj -> C:\Users\Brendan\Desktop\OCC Fall '16\C++ 2\Project 1\Part D\p1_d_donor_list_win_form\x64\Debug\Donations.exe
+  Donations.vcxproj -> C:\Users\Brendan\Desktop\OCC Fall '16\C++ 2\Project 1\Part D\p1_d_donor_list_win_form\x64\Debug\Donations.pdb (Partial PDB)
